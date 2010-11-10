@@ -1,0 +1,11 @@
+Wheat Plymouth theme
+--------------------
+
+This is a simple Plymouth theme based on the "Ubuntu logo" one (the default
+Ubuntu Plymouth theme) featuring a wheat picture background (the "Life"
+wallpaper on Ubuntu 10.10) with the "Linux" text, instead than "Ubuntu".
+
+For installation instructions refer to INSTALL.
+
+The script test-theme.sh is a development tool used to test the theme
+without having to reboot the computer.

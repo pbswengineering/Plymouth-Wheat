@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Wheat
+Description=A theme that features a wheat background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/wheat
+ScriptFile=/lib/plymouth/themes/wheat/wheat.script

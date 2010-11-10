@@ -1,0 +1,23 @@
+Wheat Plymouth theme installation
+---------------------------------
+
+Ubuntu 10.4 or greater:
+
+  Open a terminal and run the install-ubuntu.sh script.
+  If you got the textual version of Plymouth (usually it happens after
+  installing NVIDIA's or AMD's proprietary video card drivers) you can fix
+  it by using the script available at the following url:
+  http://www.webupd8.org/2010/10/script-to-fix-ubuntu-plymouth-for.html
+
+
+
+Other distributions
+
+  The weath/ directory contains all the theme files; they should be copied
+  to /usr/lib/plymouth/themes/wheat. After copying you should register the
+  theme, configure it as the default one and update the initial RAM disk.
+  I'm sure you can find out easily how to do that within your distribution.
+
+  If you're using Debian good chance is that the commands will be similar
+  these in Ubuntu (maybe it's the other way around? ;-)), see the
+  installation script for reference.
